@@ -48,12 +48,13 @@ IF(
         )
     )
 )
+  ---
 ### 📈 Key Analysis Performed
 - Analyzed panic attack symptom patterns including chest pain, dizziness, sweating, and trembling  
 - Studied panic attack duration trends across different patient groups  
 - Evaluated the impact of sleep hours on panic attack frequency  
 - Analyzed alcohol consumption (drinks per week) in relation to panic attack severity  
-- Performed gender-wise and age group-wise segmentation using DAX  
+- Performed age group-wise segmentation using DAX  
 - Identified common trigger reasons such as caffeine intake, PTSD, and phobia  
 - Correlated medical history factors (anxiety, depression) with panic attack occurrence  
 - Built KPI-driven visuals and interactive slicers for exploratory analysis  
@@ -74,11 +75,11 @@ IF(
 - Applied SQL and Snowflake concepts for structured data analysis  
 - Used DAX for demographic segmentation and business logic  
 - Designed interactive Power BI dashboards with meaningful KPIs  
-- Improved data storytelling and insight communication skills  
+
 
 ---
 
 ## 👤 Author
 **Pallav Garg**  
-Aspiring Data Analyst  
+Aspiring Data Analyst
 
